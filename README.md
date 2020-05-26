@@ -3,7 +3,7 @@
 
 ![Image alt](https://github.com/sunny3/Lunar_project/raw/master/img/LunarLander.png)
 
-Запуск демонстрации в консоли
+Запуск демонстрации
 ```
 pip install gym
 pip install box2d
