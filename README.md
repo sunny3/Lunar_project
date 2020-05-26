@@ -1,6 +1,8 @@
 # Lunar_project
 Решение для gym.openai.com/envs/LunarLander-v2
+
 ![Image alt](https://github.com/sunny3/Lunar_project/raw/master/img/LunarLander.png)
+
 Запуск демонстрации в консоли
 ```
 pip install gym
